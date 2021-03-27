@@ -50,3 +50,10 @@ When a weapon is used against a building on your grid, you must remove one of yo
 To resolve the destruction of a floor, take your floor cards for the building that is being attacked. Shuffle those floor cards together, then fan them out facedown. Your opponent selects a card from your hand to represent the floor destroyed in the attack, and returns it to its game pile. Return the rest of your floor cards for that building back onto your play space.
 
 In the event that you only have a single floor card for a building, return it to the game pile. If you only have the building card remaining, return the building card to the game pile.
+
+## Victory Conditions
+There are multiple ways to win the game, but only one of them will be selected before play starts. Both players will share the same victory condition, and any unselected conditions will be irrelevant.
+
+1. Build 3 towers with 6 floors each
+2. Destroy all of your opponents' buildings
+3. Start a turn with 50 or more coins
