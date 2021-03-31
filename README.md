@@ -1,8 +1,8 @@
 # TetrominoTowers
-Board game about building towers and knocking down your opponents'.
+Build a cluster of tall towers, and use weapons to knock down your opponents'.
 
 ## Overview
-<Tetromino Towers> (Name TBD) is a two-player board game centered around building towers, increasing your city's power, and using your power to destroy your opponent's city.
+(Name TBD) is a two-player board game centered around building towers, increasing your city's power, and using your power to destroy your opponent's city.
   
 You use three components to play the game: buildings, floors, and weapons.
 
@@ -10,7 +10,7 @@ Buildings are represented by a stack of Legos, tiles, or anything you wish. Crea
 
 Buildings are constructed with floor cards. Each type of building (of which there are several) will have a handful of unique floor types that dictate what abilities those buildings can use in a turn. A basic floor (with no ability) is also available to expand your buildings at a lower price. Somewhere near your grid of buildings, you will keep your floor and building cards together to keep track of what floors compose a specific building in your grid.
 
-Some buildings will affect your opponent's grid, but the most effective way to ensure your victory is to use weapons against your enemy's city (which will likely be toned down, as this game isn't intended to be grisly or grim). You can purchase infantry, tanks, and artillery to sit atop your buildings and blast your opponent. You can also purchase one-time-use weapons such as bombs or EMPs that are cheap, but can be disabled or defused if you're not careful.
+Some buildings will affect your opponent's grid, but the most effective way to ensure your victory is to use weapons against your enemy's city (which will likely be toned down, as this game isn't intended to be grisly or violent). You can purchase infantry, tanks, and artillery to sit atop your buildings and blast your opponent. You can also purchase one-time-use weapons such as bombs or EMPs that are cheap, but can be disabled or defused if you're not careful.
 
 
 ## Table Setup
@@ -35,11 +35,12 @@ On any given turn, players will simultaneously follow this flow, waiting for eve
 
 1. Rotate your city grid at 90 degree increments however many times you please. Once you proceed to another step, your grid's rotation will be locked.
 2. Take note of how many buildings are exposed to your opponent (i.e. not blocked by another building on your grid). The number of buildings exposed is your "active" building number.
-3. Buy up to X number of cards, where X is the number of "active" (exposed) buildings this round. Place all purchased cards on slot #7 on the staging mat.
-4. Place up to X cards you would like to play this turn facedown in front of you, where X is the number of "active" (exposed) buildings this round. You may also place a single floor card from any active building on your grid and put it facedown with your other selected cards this turn.
-5. Once you and your opponent have locked in the cards you would like to play this turn, pick up your selected cards and, without revealing them, place them facedown on the staging mat on the square that matches a cards' priority.
-6. After each player has staged all of their cards in priority order, you may simultaneously reveal any cards in priority 0 and resolve their effects. 
-7. Continue through each priority rank until you resolve all effects in priority 7. Take the cards you purchased at the beginning of the round (that had been set aside on priority 7) and place them on buildings you wish.
+3. Roll the D6, and give yourself that many coins + a coin for every "active" building.
+4. Buy up to X number of cards, where X is the number of "active" (exposed) buildings this round. Place all purchased cards on slot #7 on the staging mat.
+5. Place up to X cards you would like to play this turn facedown in front of you, where X is the number of "active" (exposed) buildings this round. You may also place a single floor card from any active building on your grid and put it facedown with your other selected cards this turn.
+6. Once you and your opponent have locked in the cards you would like to play this turn, pick up your selected cards and, without revealing them, place them facedown on the staging mat on the square that matches a cards' priority.
+7. After each player has staged all of their cards in priority order, you may simultaneously reveal any cards in priority 0 and resolve their effects. 
+8. Continue through each priority rank until you resolve all effects in priority 7. Take the cards you purchased at the beginning of the round (that had been set aside on priority 7) and place them on buildings you wish.
 
 ### Simultaneous Effects
 For example, if both players choose to use a tank attack with the same priority, and attack each others' tank, both attacks will be carried out simultaneously and both tanks will be destroyed. If a tank attacks a building whose floor card is also active for a given priority, that floor will not be destroyed before it can use its ability.
